@@ -1,12 +1,12 @@
-#---
+---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 #layout: home
-#---
+---
 
 ---
-layout: home
+layout: portfolio
 title: "Welcome to My Portfolio"
 ---
 
@@ -15,7 +15,3 @@ title: "Welcome to My Portfolio"
 Hi, I'm [Your Name]. This is my portfolio showcasing my work and projects.
 
 ## Projects
-
-- [Project 1](project1.html)
-- [Project 2](project2.html)
-- [Project 3](project3.html)
