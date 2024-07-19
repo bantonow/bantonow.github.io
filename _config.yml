@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bantonow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: bantonow
-linkedin_username: ben-antonow
+linkedin_username: benjamin-antonow
 
 # Build settings
 theme: minima
@@ -40,7 +40,7 @@ plugins:
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/bantonow" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/benjamin-antonow" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/benjamin-antonow/" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
