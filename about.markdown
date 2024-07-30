@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hello Clare and Dad. I am very excited for Dinner tonight where we will eat dumplings. Yum Yum Yum!
 
-<img src="/images/dumpling.jpg" alt="Logo" style="max-width: 100%; height: auto;"><br><br>
+![dumpling](/images/dumpling.jpg)
 
 <!--
 Hi, I'm Ben. I'm a Junior at the University of Michigan studying Computer Science and Cognitive Science. 
