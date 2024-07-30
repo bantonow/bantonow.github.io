@@ -3,7 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello Clare and Dad. I am very excited for Dinner tonight where we will eat dumplings. Yum Yum Yum!
 
+<img src="/images/dumpling.jpg" alt="Logo" style="max-width: 100%; height: auto;"><br><br>
+
+<!--
 Hi, I'm Ben. I'm a Junior at the University of Michigan studying Computer Science and Cognitive Science. 
 
 I'm an aspiring Product Manager who is excited about health tech. I want to work with brilliant people who build things that improve people's physical and mental health. I'm especially excited about wearables, AR/VR, and leveraging AI/ML (sorry) to make whatever we're building better. 
@@ -22,7 +26,7 @@ In my free time I love to read, ride my bike, do yoga, compete in hackathons, wa
 
 Feel free to reach out to me via email at the bottom of this page. Always happy to chat :).
 
-<!-- 
+ 
 Some people who inspire me are:
 - [Jeremy Bailenson](https://profiles.stanford.edu/jeremy-bailenson), Founding Director of Stanford's [Virtual Human Interaction Lab (VHIL)](https://vhil.stanford.edu/). If I could have 1/10th the positive impact he has had on the world, I could die happy.
 - Soren Gordhamer. He runs [Wisdom 2.0](https://www.wisdom2summit.com/), a conference where people can come together and hear from some of the leading voices in wellness, and explore how to live mindfully in a technology-rich age. I had the pleasure of working there last summer.
