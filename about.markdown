@@ -9,13 +9,13 @@ Hi, I'm Ben. I'm a Junior at the University of Michigan studying Computer Scienc
 
 I'm an aspiring Product Manager who is excited about health tech. I want to work with brilliant people who build things that improve people's physical and mental health. I'm especially excited about wearables, AR/VR, and leveraging AI/ML (sorry) to make whatever we're building better. 
 
-I'm spending my summer at UC Berkeley working at an open-source health tech initiative within [Project Jupyter](https://jupyter.org/). It's called [JupyterHealth](https://jupyterhealth.org/), and we're trying reshape how healthcare systems can use data from consumer-facing wearables. 
+I spent my summer at UC Berkeley working at an open-source health tech initiative within [Project Jupyter](https://jupyter.org/). It's called [JupyterHealth](https://jupyterhealth.org/), and we're trying reshape how healthcare systems can use data from consumer-facing wearables. 
 
 During the school year, I'm an undergraduate TA for [EECS 280](https://eecs280.org/), the 3rd largest course at Michigan. I teach a lab section and do whatever I can to be an impactful teacher and mentor for my students.
 
 I'm a freelance Software Engineeer for [Focus for Democracy](https://www.focus4democracy.org/), a nonprofit dedicated to empowering political donors to make the most impactful contributions possible to strengthen democracy. I write code and build internal apps to help them raise more money.
 
-I'm also the Technical Product Manager for the [Michigan Fashion Media Summit](https://www.michiganfashionmediasummit.com/), a student-run organization that organizes the largest collegiate conference for students interested in working in fashion. This year we had more than 600 attendees. Every year it gets better (somehow).
+I'm also the Product Manager for the [Michigan Fashion Media Summit](https://www.michiganfashionmediasummit.com/), a student-run organization that organizes the largest collegiate conference for students interested in working in fashion. This year we had more than 600 attendees. Every year it gets better (somehow).
 
 I also run the Asia section of the Michigan Journal of International Affairs. I have an awesome team of writers who are probably the only other people at Michigan subscribed to The Economist.  
 
